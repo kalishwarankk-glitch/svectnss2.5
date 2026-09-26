@@ -3,4 +3,4 @@ Allow: /
 Disallow: /dashboard.html
 Disallow: /admin-login.html
 
-Sitemap: https://www.svcetnss.example/sitemap.xml
+Sitemap: https://svectnss2-5.vercel.app/sitemap.xml
