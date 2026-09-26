@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard.html
+Disallow: /admin-login.html
+
+Sitemap: https://www.svcetnss.example/sitemap.xml
